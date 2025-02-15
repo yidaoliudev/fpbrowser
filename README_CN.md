@@ -107,6 +107,7 @@ fpBrowser 还不完善。如果您对 fpBrowser 感兴趣，可以通过以下�
 本文提供的技术信息仅供学习和参考之用，不构成任何形式的担保或保证。发表本项目的作者不对技术的准确性、有效性或适用性做任何声明或保证。
 
 # 联系我们
+可提供完整商用系统的私有化部署方案.
 
 - email: [fpbrowser@163.com ](mailto:fpbrowser@163.com)
 - 官网: [https://www.fpbrowser.com](https://www.fpbrowser.com)
