@@ -108,6 +108,7 @@ fpBrowser 还不完善。如果您对 fpBrowser 感兴趣，可以通过以下�
 
 # 联系我们
 可提供完整商用系统的私有化部署方案.
+同时提供完整商用产品收购方案。
 
 - email: [fpbrowser@163.com ](mailto:fpbrowser@163.com)
 - 官网: [https://www.fpbrowser.com](https://www.fpbrowser.com)
